@@ -1,7 +1,7 @@
-<img src="logo.jpg" width="350px">
+<img src="logo.jpg" width="300px">
 
-<p style="font-size:19px; text-align:left; margin-top: 15px; margin-bottom: 5px">Working Group <i>Explainable Artificial Intelligence</i></p>
-<p style="font-size:25px; text-align:left; margin-bottom: 15px"><b>Jupyter Notebooks on Explainable AI Methods</b></p>
+<p style="font-size:19px; text-align:left; margin-top: 15px; margin-bottom: 15px">Working Group <i>Explainable Artificial Intelligence</i></p>
+<p style="font-size:25px; text-align:left; margin-bottom: 25px"><b>Jupyter Notebooks on Explainable AI Methods</b></p>
 
 Direkter Link zum Binder (bevorzugt mit "in neuem Tab öffnen"):
 
