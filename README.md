@@ -1,3 +1,5 @@
+<img src="logo.jpg" width="350">
+
 # Repository "BinderTest"
 
 Direkter Link zum Binder (bevorzugt mit "in neuem Tab öffnen"):
