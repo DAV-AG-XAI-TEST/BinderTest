@@ -13,6 +13,7 @@ In this notebook, we study the popular Titanic dataset and the corresponding bin
 <a target="_blank" href="https://colab.research.google.com/github/DAV-AG-XAI-TEST/JUPYTER-NOTEBOOKS/blob/main/Educational_Examples/Classification_ToyExample/ToyExample.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+[Kaggle-Link](https://www.kaggle.com/simonhatzesberger/dav-ag-xai-toy-example)
 <br>
 
 <br>
