@@ -5,9 +5,6 @@
 <p style="font-size:25px; text-align:left; margin-bottom: 25px"><b>Jupyter Notebooks on Explainable AI Methods</b></p>
 <br>
 
-Link zum Ordner *Educational_Examples*:
-[Link_Educational_Examples](/Educational_Examples)
-
-Direkter Link zum Binder (bevorzugt mit "in neuem Tab öffnen"):
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simonhatzesberger/TEST_REPOSITORY/HEAD?labpath=ToyExample.ipynb)
+Link to folder *Educational_Examples*: [Educational_Examples](/Educational_Examples)
+Link to folder *Reimplementations*: [Reimplementations](/Reimplementations)
+Link to folder *Use_Cases*: [Use_Cases](/Use_Cases)
