@@ -1,4 +1,4 @@
-<img src="logo.jpg" width="350">
+<img src="logo.jpg" width="350px">
 
 # Repository "BinderTest"
 
