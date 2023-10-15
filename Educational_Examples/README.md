@@ -11,6 +11,7 @@ In this notebook, we study the popular Titanic dataset and the corresponding bin
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simonhatzesberger/TEST_REPOSITORY/HEAD?labpath=ToyExample.ipynb)
 <br>
+<br>
 
 **Example *Classification_TravelInsurance***
 
@@ -18,10 +19,10 @@ In this notebook, we study a dataset on the purchase of travel insurance and the
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simonhatzesberger/TEST_REPOSITORY/HEAD?labpath=ToyExample.ipynb)
 <br>
+<br>
 
 **Example *Regression_MedicalCosts***
 
 In this notebook, we study a dataset on the prediction of medical costs and the corresponding regression problem. After a short and concise EDA, we apply and discuss various model-agnostic xAI methods.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simonhatzesberger/TEST_REPOSITORY/HEAD?labpath=ToyExample.ipynb)
-<br>
