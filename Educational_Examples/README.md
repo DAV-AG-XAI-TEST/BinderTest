@@ -10,6 +10,9 @@
 In this notebook, we study the popular Titanic dataset and the corresponding binary classification problem. After a short and concise EDA, we apply and discuss various model-agnostic xAI methods.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simonhatzesberger/TEST_REPOSITORY/HEAD?labpath=ToyExample.ipynb)
+<a target="_blank" href="https://colab.research.google.com/github/DAV-AG-XAI-TEST/JUPYTER-NOTEBOOKS/blob/main/Educational_Examples/Classification_ToyExample/ToyExample.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 <br>
 
 <br>
