@@ -9,4 +9,4 @@
 
 In this notebook, we study SHAP.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DAV-AG-XAI-TEST/JUPYTER-NOTEBOOKS/HEAD?labpath=Reimplementations%2FSHAP%2Freimpl_python_regression_SwedishMotorInsurance_shap.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DAV-AG-XAI-TEST/JUPYTER-NOTEBOOKS/HEAD?labpath=%2FReimplementations%2FSHAP%2Freimpl_python_regression_SwedishMotorInsurance_shap.ipynb)
