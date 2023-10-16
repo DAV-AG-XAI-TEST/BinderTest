@@ -2,10 +2,10 @@
 
 <br>
 <p style="font-size:19px; text-align:left; margin-top: 15px; margin-bottom: 15px">Working Group <i>Explainable Artificial Intelligence</i></p>
-<p style="font-size:25px; text-align:left; margin-bottom: 25px"><b>Educational Examples</b></p>
+<p style="font-size:25px; text-align:left; margin-bottom: 25px"><b>Reimplementations</b></p>
 <br>
 
-**Example *Classification_Titanic***
+**Example *SHAP***
 
 In this notebook, we study the popular Titanic dataset and the corresponding binary classification problem. After a short and concise EDA, we apply and discuss various model-agnostic xAI methods.
 
