@@ -10,3 +10,5 @@
 In this notebook, we study SHAP.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DAV-AG-XAI-TEST/JUPYTER-NOTEBOOKS/HEAD?labpath=%2FReimplementations%2FSHAP%2Freimpl_python_regression_SwedishMotorInsurance_shap.ipynb)
+[![](https://img.shields.io/badge/kaggle-notebook-blue)](https://www.kaggle.com/simonhatzesberger/dav-ag-xai-reimplementation-shap)
+<br>
